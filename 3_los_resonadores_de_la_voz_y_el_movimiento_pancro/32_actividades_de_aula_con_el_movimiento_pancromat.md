@@ -4,20 +4,92 @@ Comenzaremos por la reproducción de pequeños motivos en un registro asequible 
 
 Después de este paso y antes de comenzar a realizar la lecto escritura, comenzaremos a dibujar estos motivos sonoros, siguiendo la dirección de del trazo. En el siguiente vídeo podéis ver una progresión de dificultades del movimiento pancromático. De la misma manera os adjuntamos una progresión de motivos pancromáticos, llegando a el movimiento diatónico.
 
-[https://youtu.be/YIj5yMlbVzA](https://www.google.com/url?q=https://youtu.be/YIj5yMlbVzA&sa=D&ust=1581936951458000)
+{% youtube %}https://youtu.be/YIj5yMlbVzA{% endyoutube %}
 
 A continuación podéis leer 19 motivos diferentes, en progresión de dificultad:
 
-![](/assets/image31.jpg)
+![](/assets/image23_IMGP.jpg)
 
-![](/assets/image26.jpg)
+---
 
-![](/assets/image24.jpg)![](/assets/image20.jpg)![](/assets/image11.jpg)![](/assets/image7.jpg)![](/assets/image32.jpg)![](/assets/image18.jpg)![](/assets/image30.jpg)![](/assets/image16.jpg)![](/assets/image25.jpg)![](/assets/image13.jpg)![](/assets/image12.jpg)![](/assets/image2.jpg)![](/assets/image27.jpg)![](/assets/image4.jpg)![](/assets/image6.jpg)![](/assets/image1.jpg)![](/assets/image23.jpg)
+![](/assets/image1_IMGP.jpg)
 
-Registros recomendados por curso, suponiendo que los niños nunca han cantado
+---
+
+![](/assets/image6_IMGP.jpg)
+
+---
+
+![](/assets/image4_IMGP.jpg)
+
+---
+
+![](/assets/image27_IMGP.jpg)
+
+---
+
+![](/assets/image2_IMGP.jpg)
+
+---
+
+![](/assets/image12_IMGP.jpg)
+
+---
+
+![](/assets/image13_IMGP.jpg)
+
+---
+
+![](/assets/image25_IMGP.jpg)
+
+---
+
+![](/assets/image16_IMGP.jpg)
+
+---
+
+![](/assets/image30_IMGP.jpg)
+
+---
+
+![](/assets/image18_IMGP.jpg)
+
+---
+
+![](/assets/image32_IMGP.jpg)
+
+---
+
+![](/assets/image7_IMGP.jpg)
+
+---
+
+![](/assets/image11_IMGP.jpg)
+
+---
+
+![](/assets/image20_IMGP.jpg)
+
+---
+
+![](/assets/image24_IMGP.jpg)
+
+---
+
+![](/assets/image26_IMGP.jpg)
+
+---
+
+![](/assets/image31_IMGP.jpg)
+
+---
+
+### Registros recomendados por curso
+
+Suponiendo que los niños nunca han cantado, los registros recomendados por curso son:
 
 | 1 primaria | 2 primaria | 3 primaria | 4 primaria |
 | --- | --- | --- | --- |
 | re4 - la4 | do4 - do5 | la3 - mi5 | sol3 - sol5 |
 
-[https://www.youtube.com/watch?v=s4c__s-nQJw&amp;feature=youtu.be](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Ds4c__s-nQJw%26feature%3Dyoutu.be&sa=D&ust=1581936951462000)
+{% youtube %}https://www.youtube.com/watch?v=s4c__s-nQJw{% endyoutube %}
