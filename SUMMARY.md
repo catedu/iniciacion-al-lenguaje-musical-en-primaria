@@ -42,33 +42,40 @@
 #### 9. Conclusiones
 * [Conclusiones](9_conclusiones.md)
 
-
-
 ### Módulo 2. El ritmo a partir del cuerpo y el movimiento
 * [1 Principios generales](1_principios_generales.md)
+
 #### 2. El movimiento en el aula; tipos y progresión
-  * [2.1 Principios generales](2_el_movimiento_en_el_aula_tipos_y_progresion/21_principios_generales.md)
-  * [2.1 Acompañamiento musical y música recomendada; improvisaciones y selección de obras](2_el_movimiento_en_el_aula_tipos_y_progresion/21_acompanamiento_musical_y_musica_recomendada_imp.md)
+* [2.1 Principios generales](2_el_movimiento_en_el_aula_tipos_y_progresion/21_principios_generales.md)
+* [2.1 Acompañamiento musical y música recomendada; improvisaciones y selección de obras](2_el_movimiento_en_el_aula_tipos_y_progresion/21_acompanamiento_musical_y_musica_recomendada_imp.md)
+
 #### 3. Los choques rítmicos; impulso, impacto y rebote
-  * [3.1. Principios generales](3_los_choques_ritmicos_impulso,_impacto_y_rebote/31_principios_generales.md)
-  * [3.2 Recursos de aula](3_los_choques_ritmicos_impulso,_impacto_y_rebote/3_2_recursos_de_aula.md)
+* [3.1. Principios generales](3_los_choques_ritmicos_impulso,_impacto_y_rebote/31_principios_generales.md)
+* [3.2 Recursos de aula](3_los_choques_ritmicos_impulso,_impacto_y_rebote/3_2_recursos_de_aula.md)
+
 #### 4. El ritmo libre, rítmico y métrico
-  * [4.1 Principios generales](4_el_ritmo_libre,_ritmico_y_metrico/41_principios_generales.md)
-  * [4.2 Motivos rítmicos](4_el_ritmo_libre,_ritmico_y_metrico/42_motivos_ritmicos.md)
+* [4.1 Principios generales](4_el_ritmo_libre,_ritmico_y_metrico/41_principios_generales.md)
+* [4.2 Motivos rítmicos](4_el_ritmo_libre,_ritmico_y_metrico/42_motivos_ritmicos.md)
+
 #### 5. El sentido del tempo
-  * [5.1 Principios generales](5_el_sentido_del_tempo/51_principios_generales.md)
-  * [5.2 Desarrollo del sentido del tempo en el aula](5_el_sentido_del_tempo/52_desarrollo_del_sentido_del_tempo_en_el_aula.md)
+* [5.1 Principios generales](5_el_sentido_del_tempo/51_principios_generales.md)
+* [5.2 Desarrollo del sentido del tempo en el aula](5_el_sentido_del_tempo/52_desarrollo_del_sentido_del_tempo_en_el_aula.md)
+
 #### 6. El compás y la respiración
-  * [6.1 Principios generales](6_el_compas_y_la_respiracion/61_principios_generales.md)
-  * [6.2 Introducción del compás en el aula](6_el_compas_y_la_respiracion/62_introduccion_del_compas_en_el_aula.md)
+* [6.1 Principios generales](6_el_compas_y_la_respiracion/61_principios_generales.md)
+* [6.2 Introducción del compás en el aula](6_el_compas_y_la_respiracion/62_introduccion_del_compas_en_el_aula.md)
+
 #### 7. Golpes rápidos y sonidos cortos y largos. Los primeros gráficos rítmicos
-  * [7.1 Principios generales](7_golpes_rapidos_y_sonidos_cortos_y_largos_los_pri/71_principios_generales.md)
-  * [7.2. Introducción a los primeros gráficos rítmicos](7_golpes_rapidos_y_sonidos_cortos_y_largos_los_pri/72_introduccion_a_los_primeros_graficos_ritmicos.md)
+* [7.1 Principios generales](7_golpes_rapidos_y_sonidos_cortos_y_largos_los_pri/71_principios_generales.md)
+* [7.2. Introducción a los primeros gráficos rítmicos](7_golpes_rapidos_y_sonidos_cortos_y_largos_los_pri/72_introduccion_a_los_primeros_graficos_ritmicos.md)
+
 #### 8. Golpes de la lengua hablada
   * [8.1 Principios generales e introducción en el aula](8_golpes_de_la_lengua_hablada/81_principios_generales_e_introduccion_en_el_aula.md)
+
 #### 9. Los modos rítmicos en la canción
-  * [9.1 Principios generales](9_los_modos_ritmicos_en_la_cancion/91_principios_generales.md)
-  * [9.2 Introducción a la birritmia colectiva y al polirritmia individual a partir de la canción.](9_los_modos_ritmicos_en_la_cancion/92_introduccion_a_la_birritmia_colectiva_y_al_poli.md)
+* [9.1 Principios generales](9_los_modos_ritmicos_en_la_cancion/91_principios_generales.md)
+* [9.2 Introducción a la birritmia colectiva y al polirritmia individual a partir de la canción.](9_los_modos_ritmicos_en_la_cancion/92_introduccion_a_la_birritmia_colectiva_y_al_poli.md)
+
 #### 10. La cuadratura y la improvisación rítmica
-  * [10.1 Principios generales e introducción en el aula](10_la_cuadratura_y_la_improvisacion_ritmica/101_principios_generales_e_introduccion_en_el_aula.md)
-* [11 Conclusiones](11_conclusiones.md)
+* [10.1 Principios generales e introducción en el aula](10_la_cuadratura_y_la_improvisacion_ritmica/101_principios_generales_e_introduccion_en_el_aula.md)
+* [11 Conclusiones](11_conclusiones.md
