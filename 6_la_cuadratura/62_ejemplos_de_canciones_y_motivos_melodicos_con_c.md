@@ -1,6 +1,6 @@
 ## 6.2\. Ejemplos de canciones y motivos melódicos con cuadratura {#6-2-ejemplos-de-canciones-y-motivos-mel-dicos-con-cuadratura}
 
-![](images/image33.jpg)
+![](/assets/image33.jpg)
 
 Longitud recomendada aproximada de los motivos melódicos por curso*
 

@@ -1,7 +1,13 @@
 # Summary
 
 * [Iniciación al Lenguaje Musical en Primaria](README.md)
-* [1. Principios generales](1_principios_generales.md)
+
+---
+
+### Módulo 1. La audición y la voz
+* [1. Principios generales](1_principios_generales_audicion_y_voz.md)
+
+#### 2. La audición
 * [2. La audición](2_la_audicion/README.md)
   * [2.1. Principios generales](2_la_audicion/21_principios_generales.md)
   * [2.2. Actividades de audición recomendadas](2_la_audicion/22_actividades_de_audicion_recomendadas.md)
@@ -30,6 +36,8 @@
   * [8.1 Principios generales](8_presentacion_del_nombre_de_las_notas_y_trabajo_o/81_principios_generales.md)
   * [8.2. Recursos de aula](8_presentacion_del_nombre_de_las_notas_y_trabajo_o/82_recursos_de_aula.md)
 * [9. Conclusiones](9_conclusiones.md)
+
+### Módulo 2. El ritmo a partir del cuerpo y el movimiento
 * [1 Principios generales](1_principios_generales.md)
 * [2 El movimiento en el aula; tipos y progresión](2_el_movimiento_en_el_aula_tipos_y_progresion/README.md)
   * [2.1 Principios generales](2_el_movimiento_en_el_aula_tipos_y_progresion/21_principios_generales.md)

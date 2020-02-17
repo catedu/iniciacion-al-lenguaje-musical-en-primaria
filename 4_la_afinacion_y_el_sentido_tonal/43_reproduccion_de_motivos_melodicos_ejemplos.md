@@ -2,12 +2,12 @@
 
 Nivel 1; melodías a  transportar y armonizar.
 
-![](images/image14.jpg)![](images/image17.jpg)![](images/image3.jpg)![](images/image9.jpg)
+![](/assets/image14.jpg)![](/assets/image17.jpg)![](/assets/image3.jpg)![](/assets/image9.jpg)
 
 Nivel 2; melodías a  transportar y armonizar.
 
-![](images/image21.jpg)
+![](/assets/image21.jpg)
 
-![](images/image28.jpg)![](images/image19.jpg)
+![](/assets/image28.jpg)![](/assets/image19.jpg)
 
 Nivel 3; melodías a  transportar y armonizar.

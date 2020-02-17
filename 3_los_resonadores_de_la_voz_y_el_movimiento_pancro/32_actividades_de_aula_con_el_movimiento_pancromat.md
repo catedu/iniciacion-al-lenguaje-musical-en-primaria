@@ -8,11 +8,11 @@ Después de este paso y antes de comenzar a realizar la lecto escritura, comenza
 
 A continuación podéis leer 19 motivos diferentes, en progresión de dificultad:
 
-![](images/image31.jpg)
+![](/assets/image31.jpg)
 
-![](images/image26.jpg)
+![](/assets/image26.jpg)
 
-![](images/image24.jpg)![](images/image20.jpg)![](images/image11.jpg)![](images/image7.jpg)![](images/image32.jpg)![](images/image18.jpg)![](images/image30.jpg)![](images/image16.jpg)![](images/image25.jpg)![](images/image13.jpg)![](images/image12.jpg)![](images/image2.jpg)![](images/image27.jpg)![](images/image4.jpg)![](images/image6.jpg)![](images/image1.jpg)![](images/image23.jpg)
+![](/assets/image24.jpg)![](/assets/image20.jpg)![](/assets/image11.jpg)![](/assets/image7.jpg)![](/assets/image32.jpg)![](/assets/image18.jpg)![](/assets/image30.jpg)![](/assets/image16.jpg)![](/assets/image25.jpg)![](/assets/image13.jpg)![](/assets/image12.jpg)![](/assets/image2.jpg)![](/assets/image27.jpg)![](/assets/image4.jpg)![](/assets/image6.jpg)![](/assets/image1.jpg)![](/assets/image23.jpg)
 
 Registros recomendados por curso, suponiendo que los niños nunca han cantado
 

@@ -1,5 +1,11 @@
-# ![](images/image5.jpg)![](images/image22.jpg)![](images/image8.jpg)![](images/image15.jpg)
+# Introducción
+
+![](/assets/multimedia.png)
+
+<!-- 
+# ![](/assets/image5.jpg)![](/assets/image22.jpg)![](/assets/image8.jpg)![](/assets/image15.jpg)
 
 Nivel 4; melodías a  transportar y armonizar.
 
-![](images/image29.jpg)![](images/image10.jpg)![](images/image34.jpg)
+![](/assets/image29.jpg)![](/assets/image10.jpg)![](/assets/image34.jpg)
+-->
