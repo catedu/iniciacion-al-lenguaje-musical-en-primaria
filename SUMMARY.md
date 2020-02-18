@@ -19,7 +19,6 @@
 * [4.1 Principios generales ](4_la_afinacion_y_el_sentido_tonal/41_principios_generales.md)
 * [4.2. Reproducción de motivos melódicos. Dinámicas de aula; escuchar repetir e inventar, control grupal e individual](4_la_afinacion_y_el_sentido_tonal/42_reproduccion_de_motivos_melodicos_dinamicas_de_.md)
 * [4.3. Reproducción de motivos melódicos. Ejemplos.](4_la_afinacion_y_el_sentido_tonal/43_reproduccion_de_motivos_melodicos_ejemplos.md)
-* [](README.md)
 * [4.4. Actividades recomendadas para los profesores.](44_actividades_recomendadas_para_los_profesores.md)
 
 #### 5. La imaginación sonora
