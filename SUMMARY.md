@@ -34,13 +34,14 @@
 * [7.2. Ejemplos de canciones](7_la_cancion_como_eje_vertebrador_del_desarrollo_m/72_ejemplos_de_canciones.md)
 * [7.3. Actividades recomendadas para los profesores](7_la_cancion_como_eje_vertebrador_del_desarrollo_m/73_actividades_recomendadas_para_los_profesores.md)
 
-#### 8. Presentación del nombre de las notas y trabajo oral previo a la lecto escritura.
+#### 8. Presentación del nombre de las notas y trabajo oral previo a la lecto-escritura.
 * [8.1 Principios generales](8_presentacion_del_nombre_de_las_notas_y_trabajo_o/81_principios_generales.md)
 * [8.2. Recursos de aula](8_presentacion_del_nombre_de_las_notas_y_trabajo_o/82_recursos_de_aula.md)
 
 #### 9. Conclusiones
 * [Conclusiones](9_conclusiones.md)
 
+<!--
 ### Módulo 2. El ritmo a partir del cuerpo y el movimiento
 * [1 Principios generales](1_principios_generales.md)
 
@@ -78,3 +79,4 @@
 #### 10. La cuadratura y la improvisación rítmica
 * [10.1 Principios generales e introducción en el aula](10_la_cuadratura_y_la_improvisacion_ritmica/101_principios_generales_e_introduccion_en_el_aula.md)
 * [11 Conclusiones](11_conclusiones.md
+-->
