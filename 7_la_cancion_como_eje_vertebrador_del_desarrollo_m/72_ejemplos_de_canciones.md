@@ -1,251 +1,133 @@
-## 7.2\. Ejemplos de canciones {#7-2-ejemplos-de-canciones}
+# 7.2\. Ejemplos de canciones {#7-2-ejemplos-de-canciones}
 
 A continuación tenéis ejemplos de canciones, desde 2 a 5 notas hasta cánones, ordenadas según la dificultad, con el texto y un acompañamiento sugerido con acordes en una tonalidad sencilla para cantar para los niños. En este punto hay que recordar que **siempre es recomendable transportar las canciones a varias tonalidades**, y hemos de elegir la tonalidad de partida dependiendo de la tesitura y el registro de nuestros alumnos.
 
-### Canciones de intervalo
+# Canciones de intervalo
 
-#### El ratón, 2ª menor
+## El ratón, 2ª menor
 
 {% youtube %}https://youtu.be/KBnvlkUeERU{% endyoutube %}
 
-#### La hormiguita doña inés, 3ª Mayor / Acorde Mayor
+![](/assets/el_raton.png)
+
+---
+
+## La hormiguita doña inés, 3ª Mayor / Acorde Mayor
 
 {% youtube %}https://youtu.be/Ci5xu8k4wj4{% endyoutube %}
 
-### Una estrella, 3ª menor / acorde menor
+![](/assets/la_hormiguita.png)
+
+---
+
+## Una estrella, 3ª menor / acorde menor
 
 {% youtube %}https://youtu.be/N_AklLr7Zq8{% endyoutube %}
 
-#### Tres pajaritos, 4ª justa
+![](/assets/una_estrella.png)
+
+---
+
+## Tres pajaritos, 4ª justa
 
 {% youtube %}https://youtu.be/5ybJWmxAFhQ{% endyoutube %}
 
-#### Tres ovejas, 5ª justa
+![](/assets/tres_pajaritos.png)
+
+---
+
+## Tres ovejas, 5ª justa
 
 {% youtube %}https://youtu.be/k6_dH_A-UOM{% endyoutube %}
 
-#### Marina, 6ª menor
+![](/assets/tres_ovejas.png)
+
+---
+
+## Marina, 6ª menor
 
 {% youtube %}https://youtu.be/TyBIrK1VL3M{% endyoutube %}
 
-<!--
-#### Mambrú, 6ª Mayor
+![](/assets/marina.png)
+
+---
+
+## Mambrú, 6ª Mayor
 
 {% youtube %}https://youtu.be/nWVmpmztt8c{% endyoutube %}
 
-          MiM                                                      SiM                                                   MiM
+![](/assets/mambru.png)
 
-Mambrú se fue a la guerra, mire usted, mire usted ¡ay! que pena,
+---
 
-          MiM                                                                   SiM        MiM
+## La casa de mi abuela, 7ª menor
 
-Mambrú se fue a la guerra, no sé cuando vendrá,
+{% youtube %}https://youtu.be/Q6F6K8lXZLc{% endyoutube %}
 
-        MiM         LaM         MiM        MiM           LaM       MiM
+![](/assets/la_casa_de_mi_abuela.png)
 
-no sé cuando vendrá, no sé cuando vendrá.
+---
 
-Si vendrá por la Pascua, mire usted, mire usted, ¡ay! qué gracia,
+## El frío, 7ª Mayor
 
-si vendrá por la Pascua, o por la Trinidad,
+{% youtube %}https://youtu.be/dftUmyO4AX8{% endyoutube %}
 
-o por la Trinidad, o por la Trinidad.
+![](/assets/el_frio.png)
 
-La Trinidad se pasa, mire usted, mire usted, ¡ay! qué guasa.
+---
 
-La Trinidad se pasa, Mambrú no vuelve ya,
+## Arriba en la montaña, 8ª Justa
 
-Mambrú no vuelve ya, Mambrú no vuelve ya.
+{% youtube %}https://youtu.be/zCf57AZIS3k{% endyoutube %}
 
-Me he subido a la torre, mire usted, mire usted ¡ay! que torre,
+![](/assets/arriba_en_la_montana.png)
 
-me he subido a la torre, por ver si aún vendrá,
+---
 
-por ver si aún vendrá, por ver si aún vendrá.
+# Canciones de acorde
 
-Por allí viene un paje, mire usted, mire usted ¡ay! qué traje
+Además de _La Estrella_ para el acorde menor y _La hormiguita Doña Inés_ para el acorde Mayor.
 
-por allí viene un paje, ¿qué noticias traerá?,
+## Hay muchas flores, acorde disminuido
 
-¿qué noticias traerá?, ¿qué noticias traerá?
+{% youtube %}https://youtu.be/y1ToIAdXuwY{% endyoutube %}
 
-Las noticias que traigo, mire usted, mire usted que me caigo,
+![](/assets/hay_muchas_flores.png)
 
-las noticias que traigo, dan ganas de llorar,
+---
 
-dan ganas de llorar, dan ganas de llorar.
+## El gato, acorde aumentado
 
-.
+{% youtube %}https://youtu.be/fL4VKG098og{% endyoutube %}
 
-Mambrú se ha muerto en guerra, mire usted, mire usted ¡ay! que pena,
+![](/assets/el_gato.png)
 
-Mambrú se ha muerto en guerra, lo llevan a enterrar,
+---
 
-lo llevan a enterrar, o llevan a enterrar.
+# Cánones
 
-Mambrú estaba escondido,  mire usted, mire usted ¡ay! que pillo,
+## A la orilla del agua, canon
 
-Mambrú estaba escondido, y a todos engañó,
+{% youtube %}https://youtu.be/Cggo7XsLu1M{% endyoutube %}
 
-y a todos engañó, y atodos engañó.
+![](/assets/a_la_orilla_del_agua.png)
 
-#### La casa de mi abuela, séptima menor
+---
 
-https://youtu.be/Q6F6K8lXZLc
+## El gallo ha muerto, canon
 
-       Do7M                 FaM            Do7M                   FaM
+{% youtube %}https://youtu.be/isJ8tfbkitY{% endyoutube %}
 
-La casa de mi abuela no se puede cerrar,
+![](/assets/el_gallo_ha_muerto.png)
 
-       Do7M                 FaM            Do7M                   FaM
+---
 
-cuidado con el gato que se puede escapar.
+## Sesere Eeye, canon, sin acompañamiento armónico, se puede acompañar rítmicamente.
 
-       Do7M                 FaM            Do7M                   FaM    
+{% youtube %}https://www.youtube.com/watch?v=t2JxKnVJBqQ{% endyoutube %}
 
-El gato se ha escapado, la abuela va detrás,
+---
 
-       Do7M                 FaM            Do7M                   FaM
+## Belle mamma, canon, sin acompañamiento armónico, a cantarlo a capella.
 
-subidos al tejado comienzan a cantar.
-
-#### El frío, séptima Mayor
-
-[https://youtu.be/dftUmyO4AX8](https://www.google.com/url?q=https://youtu.be/dftUmyO4AX8&sa=D&ust=1581936951486000)
-
-    DoM7Maj    SolM           DoM
-
-El frío ya llegó a mis orejas,
-
-  DoM7Maj    SolM           DoM
-
-el frío ya llegó hasta mis piés.
-
-      Sol          DoM           FaM          DoM
-
-Si corro si salto si doy volteretas,
-
-    DoM7Maj     SolM         DoM
-
-al frío lejos lo mandaré
-
-#### Arriba en la montaña, octava justa
-
-https://youtu.be/zCf57AZIS3k
-
-    MiM                                           SiM                    MiM
-
-Arriba en la montaña, la vieja casa está.
-
-    MiM                                           SiM                    MiM
-
-Arriba en la montaña, la vieja casa está,
-
-            SiM                         MiM                     SiM                  MiM
-
-muy cerca el cielo azul, y junto a ella un abedul,
-
-    LaM                       SiM                                     MiM
-
-arriba en la montaña la vieja casa está.
-
-Arriba en la montaña, la casa ya no está.
-
-Arriba en la montaña, la casa ya no está,
-
-pues fueron su ataúd la nieve fría y un alúd,
-
-arriba en la montaña, la casa ya no está.
-
-Arriba en la montaña, Juan llora sin cesar.
-
-Arriba en la montaña, Juan llora sin cesar,
-
-terrible es la visión que le destroza el corazón,
-
-arriba en la montaña, Juan llora sin cesar.
-
-Arriba en la montaña, la nueva casa está.
-
-Arriba en la montaña, la nueva casa está,
-
-pues Juan con gran tesón reconstruyó ya su mansión,
-
-arriba en la montaña, la nueva casa está.
-
-#### Hay muchas flores, acorde disminuido
-
-https://youtu.be/y1ToIAdXuwY
-
-  La7M                  ReM       La7M        ReM
-
-Hay muchas flores, en mi jardín,
-
-  La7M           ReM             La7M             ReM
-
-coge un ramito que huele a jazmín,
-
-  La7M           ReM             La7M            ReM
-
-coge unas pocas que son para tí.
-
-#### El gato, acorde aumentado
-
-https://youtu.be/fL4VKG098og
-
-lam    MiM            rem             MiM
-
-El gato que estira sus patas,
-
-lam    MiM            rem             lam
-
-bosteza profundo y se va.
-
-#### A la orilla del agua, canon
-
-[https://youtu.be/Cggo7XsLu1M](https://www.google.com/url?q=https://youtu.be/Cggo7XsLu1M&sa=D&ust=1581936951491000)
-
-                FaM                                                    DoM                                                                          FaM    
-
-1 A la orilla del agua, inundados de sol, entonamos al aire esta bella canción.
-
-                FaM                    DoM                                    FaM
-
-2 O lará diría, olará dio, olará diria, olará dio
-
-#### El gallo ha muerto, canon
-
-https://youtu.be/isJ8tfbkitY
-
-mim                                      SiM     mim
-
-1 El gallo ha muerto, qué dolor.
-
-mim                                      SiM     mim
-
-2 el gallo ha muerto, qué dolor.
-
-mim                                      SiM     mim
-
-3 Ya no dirá más cocorí, cocoró,
-
-mim                                      SiM     mim
-
-4 ya no dirá más cocorí, cocoró
-
-mim                      SiM       mim
-
-Cocorico, coricó, coricó
-
-mim                      SiM       mim
-
-Cocorico, coricó, coricó.
-
-#### Sesere Eeye, canon, sin acompañamiento armónico, se puede acompañar rítmicamente.
-
-[https://www.youtube.com/watch?v=t2JxKnVJBqQ](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dt2JxKnVJBqQ&sa=D&ust=1581936951493000)
-
-#### Belle mamma, canon, sin acompañamiento armónico, a cantarlo a capella.
-
-[https://www.youtube.com/watch?v=OkVpuUnAZ0c](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DOkVpuUnAZ0c&sa=D&ust=1581936951493000)
--->
+{% youtube %}https://www.youtube.com/watch?v=OkVpuUnAZ0c{% endyoutube %}
