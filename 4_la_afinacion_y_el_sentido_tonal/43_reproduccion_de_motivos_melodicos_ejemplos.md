@@ -1,61 +1,61 @@
 ## 4.3. Reproducción de motivos melódicos. Ejemplos. {#4-3-reproducci-n-de-motivos-mel-dicos-ejemplos}
 
-A continuación podéis ver una serie de motivos melódicos de ejemplo que podéis utilizar. Os los presento ordenados según dificultad creciente.
+A continuación podéis ver una serie de motivos melódicos de ejemplo que podéis utilizar. Os los presento ordenados según dificultad creciente. Puedes bajarte los audios [aquí](https://github.com/catedu/iniciacion-al-lenguaje-musical-en-primaria/raw/master/assets/melodias.zip).
 
 ### Nivel 1: melodías a  transportar y armonizar
 
-{% aimg audiocontrols=""%}/assets/image14.jpg,/audio/melodia_1_1.wav,/audio/melodia_1_1.mp3,/audio/melodia_1_1.ogg,/audio/melodia_1_1.mp3,/audio/melodia_1_1.ogg{% endaimg %}
+![](/assets/image14.jpg)
 
 ---
 
-{% aimg audiocontrols=""%}/assets/image17.jpg,/audio/melodia_1_2.wav,/audio/melodia_1_2.mp3,/audio/melodia_1_2.ogg,/audio/melodia_1_2.mp3,/audio/melodia_1_2.ogg{% endaimg %}
+![](/assets/image17.jpg)
 
 ---
 
-{% aimg audiocontrols=""%}/assets/image3.jpg,/audio/melodia_1_3.wav,/audio/melodia_1_3.mp3,/audio/melodia_1_3.ogg{% endaimg %}
+![](/assets/image3.jpg)
 
 ---
 
-{% aimg audiocontrols=""%}/assets/image9.jpg,/audio/melodia_1_4.wav,/audio/melodia_1_4.mp3,/audio/melodia_1_4.ogg{% endaimg %}
+![](/assets/image9.jpg)
 
 ### Nivel 2: melodías a  transportar y armonizar
 
-{% aimg audiocontrols=""%}/assets/image21.jpg,/audio/melodia_2_1.wav,/audio/melodia_2_1.mp3,/audio/melodia_2_1.ogg{% endaimg %}
+![](/assets/image21.jpg)
 
 ---
 
-{% aimg audiocontrols=""%}/assets/image28.jpg,/audio/melodia_2_2.wav,/audio/melodia_2_2.mp3,/audio/melodia_2_2.ogg{% endaimg %}
+![](/assets/image28.jpg)
 
 ---
 
-{% aimg audiocontrols=""%}/assets/image19.jpg,/audio/melodia_2_3.wav,/audio/melodia_2_3.mp3,/audio/melodia_2_3.ogg{% endaimg %}
+![](/assets/image19.jpg)
 
 
 ### Nivel 3: melodías a  transportar y armonizar
 
-{% aimg audiocontrols=""%}/assets/image5.jpg,/audio/melodia_3_1.wav,/audio/melodia_3_1.mp3,/audio/melodia_3_1.ogg{% endaimg %}
+![](/assets/image5.jpg)
 
 ---
 
-{% aimg audiocontrols=""%}/assets/image22.jpg,/audio/melodia_3_2.wav,/audio/melodia_3_2.mp3,/audio/melodia_3_2.ogg{% endaimg %}
+![](/assets/image22.jpg)
 
 ---
 
-{% aimg audiocontrols=""%}/assets/image8.jpg,/audio/melodia_3_3.wav,/audio/melodia_3_3.mp3,/audio/melodia_3_3.ogg{% endaimg %}
+![](/assets/image8.jpg)
 
 
 ---
 
-{% aimg audiocontrols=""%}/assets/image15.jpg,/audio/melodia_3_4.wav,/audio/melodia_3_4.mp3,/audio/melodia_3_4.ogg{% endaimg %}
+![](/assets/image15.jpg)
 
 ### Nivel 4: melodías a  transportar y armonizar
 
-{% aimg audiocontrols=""%}/assets/image29.jpg,/audio/melodia_4_1.wav,/audio/melodia_4_1.mp3,/audio/melodia_4_1.ogg{% endaimg %}
+![](/assets/image29.jpg)
 
 ---
 
-{% aimg audiocontrols=""%}/assets/image10.jpg,/audio/melodia_4_2.wav,/audio/melodia_4_2.mp3,/audio/melodia_4_2.ogg{% endaimg %}
+![](/assets/image10.jpg)
 
 ---
 
-{% aimg audiocontrols=""%}/assets/image34.jpg,/audio/melodia_4_3.wav,/audio/melodia_4_3.mp3,/audio/melodia_4_3.ogg{% endaimg %}
+![](/assets/image34.jpg)
