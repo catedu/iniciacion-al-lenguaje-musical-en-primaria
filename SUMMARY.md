@@ -80,3 +80,7 @@
 * [10.1 Principios generales e introducción en el aula](10_la_cuadratura_y_la_improvisacion_ritmica/101_principios_generales_e_introduccion_en_el_aula.md)
 * [11 Conclusiones](11_conclusiones.md
 -->
+
+---
+
+* [Créditos](creditos.md)
