@@ -1,5 +1,5 @@
 {
-    "plugins": ["youtube", "accordion", "styled-blockquotes", "localized-footer", "edit-link", "githubcontributors", "image-captions"],
+    "plugins": ["youtube", "accordion", "styled-blockquotes", "localized-footer", "edit-link", "githubcontributors", "image-captions", "audio_image"],
     "language": "es",
     "variables": {
         "title": "Iniciación al Lenguaje Musical en Primaria",
