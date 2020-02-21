@@ -37,6 +37,7 @@
 #### 8. Presentación del nombre de las notas y trabajo oral previo a la lecto-escritura.
 * [8.1 Principios generales](8_presentacion_del_nombre_de_las_notas_y_trabajo_o/81_principios_generales.md)
 * [8.2. Recursos de aula](8_presentacion_del_nombre_de_las_notas_y_trabajo_o/82_recursos_de_aula.md)
+* [8.3. Motivos de ordenamientos, nivel 1](8_presentacion_del_nombre_de_las_notas_y_trabajo_o/ordenamientos.md)
 
 #### 9. Conclusiones
 * [Conclusiones](9_conclusiones.md)
@@ -55,9 +56,9 @@
 
 #### 4. El ritmo libre, rítmico y métrico
 * [4.1 Principios generales](4_el_ritmo_libre,_ritmico_y_metrico/41_principios_generales.md)
+<!--
 * [4.2 Motivos rítmicos](4_el_ritmo_libre,_ritmico_y_metrico/42_motivos_ritmicos.md)
 
-<!--
 #### 5. El sentido del tempo
 * [5.1 Principios generales](5_el_sentido_del_tempo/51_principios_generales.md)
 * [5.2 Desarrollo del sentido del tempo en el aula](5_el_sentido_del_tempo/52_desarrollo_del_sentido_del_tempo_en_el_aula.md)
