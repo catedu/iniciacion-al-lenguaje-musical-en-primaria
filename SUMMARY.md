@@ -41,7 +41,7 @@
 #### 9. Conclusiones
 * [Conclusiones](9_conclusiones.md)
 
-<!--
+
 ### Módulo 2. El ritmo a partir del cuerpo y el movimiento
 * [1 Principios generales](1_principios_generales.md)
 
@@ -57,6 +57,7 @@
 * [4.1 Principios generales](4_el_ritmo_libre,_ritmico_y_metrico/41_principios_generales.md)
 * [4.2 Motivos rítmicos](4_el_ritmo_libre,_ritmico_y_metrico/42_motivos_ritmicos.md)
 
+<!--
 #### 5. El sentido del tempo
 * [5.1 Principios generales](5_el_sentido_del_tempo/51_principios_generales.md)
 * [5.2 Desarrollo del sentido del tempo en el aula](5_el_sentido_del_tempo/52_desarrollo_del_sentido_del_tempo_en_el_aula.md)
