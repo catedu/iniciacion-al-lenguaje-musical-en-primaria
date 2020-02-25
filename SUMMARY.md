@@ -37,7 +37,11 @@
 #### 8. Presentación del nombre de las notas y trabajo oral previo a la lecto-escritura.
 * [8.1 Principios generales](8_presentacion_del_nombre_de_las_notas_y_trabajo_o/81_principios_generales.md)
 * [8.2. Recursos de aula](8_presentacion_del_nombre_de_las_notas_y_trabajo_o/82_recursos_de_aula.md)
-* [8.3. Motivos de ordenamientos, nivel 1](8_presentacion_del_nombre_de_las_notas_y_trabajo_o/ordenamientos.md)
+* [8.3. Motivos de ordenamientos](8_presentacion_del_nombre_de_las_notas_y_trabajo_o/ordenamientos.md)
+  * [8.3.1 Nivel 1](8_presentacion_del_nombre_de_las_notas_y_trabajo_o/nivel_1.md)
+  * [8.3.2 Nivel 2](8_presentacion_del_nombre_de_las_notas_y_trabajo_o/nivel_2.md)
+  * [8.3.3 Nivel 3](8_presentacion_del_nombre_de_las_notas_y_trabajo_o/nivel_3.md)
+  * [8.3.4 Nivel 4](8_presentacion_del_nombre_de_las_notas_y_trabajo_o/nivel_4.md)
 
 #### 9. Conclusiones
 * [Conclusiones](9_conclusiones.md)
@@ -56,6 +60,7 @@
 
 #### 4. El ritmo libre, rítmico y métrico
 * [4.1 Principios generales](4_el_ritmo_libre,_ritmico_y_metrico/41_principios_generales.md)
+
 <!--
 * [4.2 Motivos rítmicos](4_el_ritmo_libre,_ritmico_y_metrico/42_motivos_ritmicos.md)
 

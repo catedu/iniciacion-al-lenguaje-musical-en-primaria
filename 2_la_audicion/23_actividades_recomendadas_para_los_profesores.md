@@ -1,5 +1,8 @@
 ## 2.3. Actividades recomendadas para los profesores. {#2-3-actividades-recomendadas-para-los-profesores}
 
+>**info**
+> Las actividades descritas en estos apartados son recomendaciones. **No** son tareas obligatorias para superar el curso.
+
 En este punto os animo a realizar una labor de recopilación y ordenación de material sonoro.
 
 Para la realizar las actividades de discriminación auditiva es interesante que hagáis varios conjuntos de objetos sonoros, para cada uno de los niveles de dificultad de la audición, por ejemplo:
