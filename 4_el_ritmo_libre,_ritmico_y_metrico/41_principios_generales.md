@@ -11,5 +11,3 @@ Realizar este tipo de ritmo **nos sirve para conseguir un impulso adecuado y com
 **Ritmo métrico**: es el tipo de ritmo que nos puede resultar más familiar, pues es el más habitual: este tipo de ritmo tiene un tempo establecido de manera clara y un compás. Se puede plasmar de manera gráfica con facilidad y se puede dividir en dos o en tres. Para que el niño pueda inventar ritmos con una métrica establecida, necesita tener sentido del tempo y sentido de la cuadratura. Cuando el niño es capaz de improvisar motivos métricos, cuadrados y proporcionados, con un impulso impacto y choque adecuado, su nivel de desarrollo rítmico será óptimo. En el apartado melódico su equivalente sería el sentido tonal.
 
 Hemos de cuidar la plasticidad del gesto y la relajación especialmente cuando realizamos motivos con una métrica y un compás establecidos, pues es cuando se tiende a realizar el ritmo de una manera más rígida
-
-{% youtube %}https://www.youtube.com/watch?v=qe7_k4jemUk{% endyoutube %}

@@ -10,4 +10,3 @@ A la hora de realizar percusiones rítmicas sobre nuestro propio cuerpo o con cu
 
 En el video de esta sección veremos con mucha más claridad a qué nos referimos físicamente.
 
-{% youtube %}https://www.youtube.com/watch?v=ey52-Cyydy4{% endyoutube %}

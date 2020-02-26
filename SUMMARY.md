@@ -60,8 +60,6 @@
 
 #### 4. El ritmo libre, rítmico y métrico
 * [4.1 Principios generales](4_el_ritmo_libre,_ritmico_y_metrico/41_principios_generales.md)
-
-<!--
 * [4.2 Motivos rítmicos](4_el_ritmo_libre,_ritmico_y_metrico/42_motivos_ritmicos.md)
 
 #### 5. El sentido del tempo
@@ -85,8 +83,10 @@
 
 #### 10. La cuadratura y la improvisación rítmica
 * [10.1 Principios generales e introducción en el aula](10_la_cuadratura_y_la_improvisacion_ritmica/101_principios_generales_e_introduccion_en_el_aula.md)
-* [11 Conclusiones](11_conclusiones.md
--->
+
+---
+
+* [11 Conclusiones](11_conclusiones.md)
 
 ---
 

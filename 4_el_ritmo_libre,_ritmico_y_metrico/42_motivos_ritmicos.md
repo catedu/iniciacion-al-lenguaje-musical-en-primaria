@@ -37,18 +37,105 @@ A continuación os detallamos una **posible progresión motriz** a la hora de re
 
 A continuación dejamos una serie de motivos rítmicos en 4 niveles de dificultad tanto en división binaria como en ternaria. Al igual que con los motivos melódicos, el profesor realizará dos compases y los alumnos repetirán dos compases. Los niveles son aproximados y varían en función del grado de desarrollo del grupo. Puedes descargar los audios correspondientes [aquí](https://github.com/catedu/iniciacion-al-lenguaje-musical-en-primaria/raw/master/assets/audios_motivos_ritmicos.zip).
 
+{% youtube %}https://www.youtube.com/watch?v=qe7_k4jemUk{% endyoutube %}
+
 #### Nivel 1
 
-4 partituras de motivos rítmicos
+![](/assets/motivo_rit_01.png)
+
+![](/assets/motivo_rit_06.png)
+
+![](/assets/motivo_rit_04.png)
+
+![](/assets/motivo_rit_03.png)
+
+![](/assets/motivo_rit_07.png)
+
+![](/assets/motivo_rit_09.png)
+
+![](/assets/motivo_rit_02.png)
+
+![](/assets/motivo_rit_05.png)
+
+![](/assets/motivo_rit_08.png)
 
 #### Nivel 2
 
-4 partituras de motivos rítmicos
+![](/assets/motivo_rit_10.png)
+
+![](/assets/motivo_rit_11.png)
+
+![](/assets/motivo_rit_12.png)
+
+![](/assets/motivo_rit_13.png)
+
+![](/assets/motivo_rit_14.png)
+
+![](/assets/motivo_rit_15.png)
+
+![](/assets/motivo_rit_16.png)
+
+![](/assets/motivo_rit_17.png)
+
+![](/assets/motivo_rit_18.png)
 
 #### Nivel 3
 
-4 partituras de motivos rítmicos
+![](/assets/motivo_rit_19.png)
+
+![](/assets/motivo_rit_20.png)
+
+![](/assets/motivo_rit_21.png)
+
+![](/assets/motivo_rit_22.png)
+
+![](/assets/motivo_rit_23.png)
+
+![](/assets/motivo_rit_24.png)
+
+![](/assets/motivo_rit_25.png)
+
+![](/assets/motivo_rit_26.png)
+
+![](/assets/motivo_rit_27.png)
 
 #### Nivel 4
 
-{% youtube %}https://www.youtube.com/watch?v=qe7_k4jemUk{% endyoutube %}
+![](/assets/motivo_rit_28.png)
+
+![](/assets/motivo_rit_29.png)
+
+![](/assets/motivo_rit_30.png)
+
+![](/assets/motivo_rit_31.png)
+
+![](/assets/motivo_rit_32.png)
+
+![](/assets/motivo_rit_33.png)
+
+![](/assets/motivo_rit_34.png)
+
+![](/assets/motivo_rit_35.png)
+
+![](/assets/motivo_rit_36.png)
+
+#### Nivel 5
+
+![](/assets/motivo_rit_37.png)
+
+![](/assets/motivo_rit_38.png)
+
+![](/assets/motivo_rit_39.png)
+
+![](/assets/motivo_rit_40.png)
+
+![](/assets/motivo_rit_41.png)
+
+![](/assets/motivo_rit_42.png)
+
+![](/assets/motivo_rit_43.png)
+
+![](/assets/motivo_rit_44.png)
+
+![](/assets/motivo_rit_45.png)
+
