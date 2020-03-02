@@ -4,6 +4,8 @@
 
 * {{ book.author }}
 
+**ISBN**: 978-84-16501-50-2
+
 <!--
 ### Colaboradores:
 
